@@ -1,0 +1,23 @@
+html{
+    background-color: black;
+  }
+  h1{
+    color: goldenrod;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  .fog{
+    border: solid goldenrod 5px;
+    width: 100%;
+  }
+  p{
+    color: goldenrod;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  .poster{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 220px;
+    font-family:'Libre Baskerville', serif;
+  }
